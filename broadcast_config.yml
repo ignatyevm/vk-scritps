@@ -1,0 +1,16 @@
+scripts:
+  - description: "чаты общаг"
+    active: true
+    chat_ids:
+      - 1
+    templates:
+      - text: "я еблан"
+        attachments:
+          - type: wall
+            owner_id: -71711391
+            media_id: 372778
+      - text: "посрал"
+    timings:
+      - time: "10:22"
+      - time: "10:22"
+      - time: "10:23"
